@@ -1,1 +1,2 @@
 Config file text
+- Adding specifications to the config file
