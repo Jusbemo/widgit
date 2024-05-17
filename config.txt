@@ -1,1 +1,1 @@
-Text text
+Config file text
